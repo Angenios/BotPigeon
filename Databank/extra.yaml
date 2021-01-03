@@ -1,0 +1,2 @@
+errorled: 12 # Insert your error led pin here
+dht11: 17 # Insert your DHT11 data pin here
